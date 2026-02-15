@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Senior Software Engineer at papa.com
+- 🔭 I’m a Senior Software Engineer at papa.com
 - 🌱 I’m currently learning the Go Programming Language
 - 📫 How to reach me: [Email](mailto:hapless_09orange@icloud.com)
 - 😄 Pronouns: He/Him
